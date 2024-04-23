@@ -7,8 +7,10 @@
 
 📃Instructions: 
 
-1. Download the program
+1. Download the program (https://mega.nz/file/dzsFGD6L#x4OpiRkIme3Ag8w799sQLR1t4GkKUM9vkPR52EsYv1I)
+
 2. Open the zip archive
+
 3. Launch the program
 
 
